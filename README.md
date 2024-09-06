@@ -18,7 +18,7 @@ Answer:
 2. Three key milestones in the evolution of software engineering are:
     - The development of the first programming languages (e.g., COBOL, FORTRAN)
     - The introduction of the Waterfall methodology
-    - The emergence of Agile methodologies
+    - The emergence of Agile methodologies.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
